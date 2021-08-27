@@ -1,0 +1,3 @@
+rootProject.name = "clearabletextinputedittext"
+include ':app'
+include ':clearabletextinputedittext'
