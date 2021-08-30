@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.ogoons.clearabletextinputedittextdemo.MainActivity">
 
     <TextView
         android:id="@+id/tv_title"
@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0"
         app:layout_constraintVertical_chainStyle="packed" />
 
-    <com.ogoons.clearabletextinputedittextdemo.ClearableTextInputEditText
+    <com.ogoons.clearabletextinputedittext.ClearableTextInputEditText
         android:id="@+id/et_clearable"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
