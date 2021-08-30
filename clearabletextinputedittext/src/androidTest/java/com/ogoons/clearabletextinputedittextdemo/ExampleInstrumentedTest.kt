@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ogoons.clearabletextinputedittext.test", appContext.packageName)
+        assertEquals("com.ogoons.clearabletextinputedittextdemo.test", appContext.packageName)
     }
 }
