@@ -1,4 +1,4 @@
-package com.ogoons.clearabletextinputedittext
+package com.ogoons.clearabletextinputedittextdemo
 
 import android.annotation.SuppressLint
 import android.content.Context

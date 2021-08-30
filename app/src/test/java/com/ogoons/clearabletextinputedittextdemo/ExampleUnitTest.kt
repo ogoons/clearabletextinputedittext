@@ -1,4 +1,4 @@
-package com.ogoons.clearabletextinputedittext
+package com.ogoons.clearabletextinputedittextdemo
 
 import org.junit.Test
 
